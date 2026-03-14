@@ -1,6 +1,0 @@
-[submodule "src/components/ImgCarousel"]
-	path = src/components/ImgCarousel
-	url = https://github.com/matthieu-vagnon/img-carousel.git
-[submodule "src/components/DemoOverlay"]
-	path = src/components/DemoOverlay
-	url = https://github.com/matthieu-vagnon/demo-overlay.git
